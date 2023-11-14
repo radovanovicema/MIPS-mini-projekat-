@@ -1,16 +1,19 @@
 # MIPS-mini-projekat-
 
-Ema Radovanović
+# Informacije o Pločici STM32
 
-U konsultaciji sa Isidorom, umesto pločice STM32F103C6 koristila sam pločicu STM32F103R6 kako bih koristila port C.
+- **Ime:** Ema Radovanović
+- **Pločica:** STM32F103R6 (umesto STM32F103C6)
+- **PIN za port C:** PIN 2
 
-ime: 3
-prezime: 11
-ukupno: 14
-samoglasnika: 7
-suglasnika: 7
+# Analiza Brojeva
 
-S obzirom na isti broj samoglasnika i suglasnika izabrala sam port C. Kako je 14 % 6 =2, izabrala sam PIN 2.
+- **Ukupno:** 14
+- **Samoglasnici:** 7
+- **Suglasnici:** 7
 
-Širina impulsa: 3ms
-Širina pauze: 11ms
+# Konfiguracija Impulsa
+
+- **Širina impulsa:** 3ms
+- **Širina pauze:** 11ms
+
