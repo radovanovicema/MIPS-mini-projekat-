@@ -4,6 +4,7 @@
 
 - **Ime:** Ema Radovanović
 - **Pločica:** STM32F103R6 (umesto STM32F103C6)
+- **PORT**:C
 - **PIN za port C:** PIN 2
 
 # Analiza Brojeva
