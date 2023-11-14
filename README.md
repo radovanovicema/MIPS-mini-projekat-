@@ -3,6 +3,7 @@
 Ema Radovanović
 
 U konsultaciji sa Isidorom, umesto pločice STM32F103C6 koristila sam pločicu STM32F103R6 kako bih koristila port C.
+
 ime: 3
 prezime: 11
 ukupno: 14
